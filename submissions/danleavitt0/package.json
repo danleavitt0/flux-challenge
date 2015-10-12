@@ -1,0 +1,35 @@
+{
+  "name": "danleavitt0",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.19.0",
+    "es6-promise": "^3.0.2",
+    "redux-logger": "^2.0.3",
+    "style-loader": "^0.12.4",
+    "vdom-element": "^0.2.3",
+    "virtual-component": "^0.2.1",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  },
+  "dependencies": {
+    "redux": "^3.0.2",
+    "redux-effects": "^0.4.0",
+    "redux-effects-events": "^0.2.5",
+    "redux-effects-fetch": "^0.3.2",
+    "redux-ephemeral": "^0.1.2",
+    "redux-multi": "^0.1.9",
+    "redux-promise": "^0.5.0",
+    "vdux": "^0.1.8",
+    "vdux-local": "^0.2.0"
+  }
+}
